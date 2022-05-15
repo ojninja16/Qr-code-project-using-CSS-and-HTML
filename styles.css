@@ -12,7 +12,7 @@ body {
   transform: translate(-50%, -50%);
   top: 50%;
   left: 50%;
-  box-shadow: 0 1em 2em rgba(0, 0, 0, 0.55);
+  box-shadow: 1.3em 1.3em 0.6em 0 rgba(0, 0, 0, 0.3);
   font-size: small;
 }
 #abc {
