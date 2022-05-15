@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(191, 220, 241);
+  font-weight: 450;
+}
+.imgmain {
+  text-align: center;
+  width: 275px;
+  background-color: whitesmoke;
+  padding: 1em;
+  border-radius: 0.6em;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  box-shadow: 0 1em 2em rgba(0, 0, 0, 0.55);
+  font-size: small;
+}
+#abc {
+  position: relative;
+  right: 5px;
+  bottom: 5px;
+
+  padding: 0%;
+  width: fit-content;
+  height: 260px;
+  border-radius: 0.9em;
+  margin-left: 0;
+}
+h3 {
+  display: inline;
+  font-size: 2em;
+  line-height: 10px;
+  font-family: "Teko", sans-serif;
+}
+.attribution {
+  display: inline;
+  margin: auto;
+  padding: 20px;
+  font-size: 10px;
+}
+span {
+  font-size: 13px;
+  margin: 10px 0 10px 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 540;
+}
+a {
+  display: inline;
+  font-weight: 600;
+  text-align: inherit;
+}
